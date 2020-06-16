@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: TKVTV
 email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+description: 取引量No.1！ *当社比.
+url: https://takagotch.github.io/page84/ # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/osaka
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Takagotch
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: takagotch #username
   google:
     plus: #username
     analytics:
@@ -69,3 +69,4 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
+
