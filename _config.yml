@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: TKVTV
+title: 阪神タイガース
 email:
-description: 取引量No.1！ *当社比.
+description: 六甲おろしに...♪
 url: https://takagotch.github.io/page84/ # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
